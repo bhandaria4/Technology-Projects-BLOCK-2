@@ -1,7 +1,2 @@
-## 📘 1. Summary of the Task
-Describe the purpose of this activity in your own words:  
-- What is the goal of the lab?  
-- What network are you expected to create?
-
-_Write your summary here…_
-
+1) To learn  how to manually  configure a basic Local Area Network (LAN) by assigning static IP addresses  and verifying network connectivity between devices using the ping command.
+3) A Star Topology  LAN connecting five computers (PCO to PC4) to a central switch, using the 192.168.1.0/24 subnet with a 255.255.255.0 
